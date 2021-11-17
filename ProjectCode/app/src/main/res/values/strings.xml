@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Handy Home</string>
+    <string name="get_up">Get Up</string>
+    <string name="all_devices">All Devices</string>
+    <string name="go_home">Go Home</string>
+    <string name="lamp_1">Lamp1</string>
+    <string name="dinning_room">Dinning Room</string>
+    <string name="bed_room">Bed Room</string>
+    <string name="kitchen">Kitchen</string>
+    <string name="living_room">Living Room</string>
+    <string name="temperature_sensor_1">Temperature Sensor 1</string>
+    <string name="light_sensor_1">Light Sensor 1</string>
+    <string name="lamp_2">Lamp 2</string>
+    <string name="lamp_1_t">Lamp 1</string>
+</resources>
